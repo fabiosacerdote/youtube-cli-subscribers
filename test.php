@@ -51,7 +51,7 @@ if (file_exists($filename))
 		}
 		else 
 		{
-			echo "itente non trovato!\n";
+			echo "Utente non trovato!\n";
 			exit;
 		}
 
